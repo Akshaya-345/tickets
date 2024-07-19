@@ -52,7 +52,7 @@ const Login = ({ onLogin }) => {
         <div className="max-w-md">
           <h2 className="text-4xl font-extrabold mb-6 text-white text-center">Welcome to Kapture CX</h2>
           <p className="text-gray-300 text-center">
-            Sign in to access your account...
+            Sign in to access your account
           </p>
         </div>
       </div>

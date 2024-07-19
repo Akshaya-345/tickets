@@ -147,8 +147,11 @@ const TicketDetails = () => {
               onChange={handleChange}
               className="w-full p-2 border rounded"
             >
-              <option value="john">John</option>
-              <option value="jane">Jane</option>
+                <option value="Akshaya">Akshaya</option>
+                <option value="Ashrith">Ashrith</option>
+                <option value="Raj">Raj</option>
+                <option value="Kishore">Kishore</option>
+                <option value="Suhas">Suhas</option>
             </select>
           </div>
           <div className="mb-4">
