@@ -4,11 +4,11 @@ import * as Yup from "yup";
 import { useNavigate } from "react-router-dom";
 
 const validUsers = [
-  { username: "user1", password: "password1" },
+  { username: "user1", password: "password@$%1" },
   { username: "Akshaya", password: "Akshaya@123" },
   { username: "Kishore", password: "akkuu" },
-  { username: "user4", password: "password4" },
-  { username: "user5", password: "password5" },
+  { username: "kapture1", password: "Kapture@1" },
+  { username: "kapture2", password: "Kapture@2" },
 ];
 
 const Login = ({ onLogin }) => {
