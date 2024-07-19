@@ -1,0 +1,85 @@
+{
+  "tickets": [
+    {
+      "email": "akshayab@gmail.com",
+      "subject": "Damaged product",
+      "status": "closed",
+      "priority": "high",
+      "resolved": "open",
+      "date": "2024-07-14",
+      "assignedTo": "Raj",
+      "assignTo": "Ashrith",
+      "sendThrough": "message",
+      "junk": "no",
+      "id": "ba15"
+    },
+    {
+      "email": "revanth@gmail.com",
+      "subject": "Damaged",
+      "status": "closed",
+      "priority": "low",
+      "resolved": "open",
+      "date": "2024-07-18",
+      "assignedTo": "Kishore",
+      "assignTo": "Raj",
+      "junk": "no",
+      "sendThrough": "whatsapp",
+      "id": "43ce"
+    },
+    {
+      "email": "amrutha@gmail.com",
+      "subject": "asdfg",
+      "status": "open",
+      "priority": "low",
+      "date": "2024-05-31",
+      "assignTo": "Kishore",
+      "assignedTo": "Ashrith",
+      "sendThrough": "email",
+      "id": "f948"
+    },
+    {
+      "email": "mohana@gmail.com",
+      "subject": "No product",
+      "status": "pending",
+      "priority": "low",
+      "date": "2023-01-10",
+      "assignedTo": "Akshaya",
+      "assignTo": "Suhas",
+      "sendThrough": "message",
+      "junk": "no",
+      "id": "a8f8"
+    },
+    {
+      "email": "faran@gmail.com",
+      "subject": "Mobile issue",
+      "status": "open",
+      "priority": "high",
+      "date": "2023-11-27",
+      "assignedTo": "Ashrith",
+      "junk": "no",
+      "sendThrough": "email",
+      "id": "8657"
+    },
+    {
+      "email": "kiran@gmail.com",
+      "subject": "asdh",
+      "status": "open",
+      "priority": "medium",
+      "date": "2023-12-12",
+      "assignedTo": "Kishore",
+      "sendThrough": "call",
+      "junk": "no",
+      "id": "d31e"
+    },
+    {
+      "email": "bhavigna@gmail.com",
+      "subject": "asd",
+      "status": "open",
+      "priority": "high",
+      "date": "2023-02-16",
+      "assignedTo": "Akshaya",
+      "sendThrough": "call",
+      "id": "3426"
+    }
+  ]
+}
